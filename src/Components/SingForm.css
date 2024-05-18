@@ -1,0 +1,49 @@
+.sing-form {
+    background-color:rgb(32, 32, 79);
+  height: min-content;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  padding: 10px
+
+};
+
+
+.number {
+    color:rgb(32, 32, 79) ;
+}
+
+
+.singup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.password-holder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.email-holder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.username-holder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+
+.input-field {
+    width: 200px;
+    margin-left: 5px;
+}
